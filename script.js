@@ -13,7 +13,7 @@ SUPPORT_PHONE: "+380733337278"
       features: ["Плотний фліс — тепло до −10°C", "Анатомічна посадка — розміри S–XXL", "Швидка відправка Новою Поштою (1–3 дні)"],
       price: 999,
       colors: [
-        { id: "black", name: "Чорний", hex: "#0b0b0b", images: ["shop/images/fleece/1.png","images/fleece/2.png"] },
+        { id: "black", name: "Чорний", hex: "#0b0b0b", images: ["images/fleece/1.png","images/fleece/2.png"] },
         { id: "anthracite", name: "Антрацит", hex: "#616267", images: ["images/fleece/10.png","images/fleece/11.png"] },
         { id: "beige", name: "Беж", hex: "#d6c7b1", images: ["images/fleece/20.png","images/fleece/21.png"] },
         { id: "emerald", name: "Смарагд", hex: "#00a86b", images: ["images/fleece/50.png"] }
@@ -554,3 +554,4 @@ badge.style.display = count > 0 ? "inline-flex" : "none";
 }
 
 }
+
